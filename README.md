@@ -16,3 +16,4 @@
 [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+![1](https://user-images.githubusercontent.com/125385556/230473568-c78ba305-c1e0-4fc0-8243-7adfc4a81de3.jpg)
